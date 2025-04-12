@@ -54,10 +54,8 @@
 ## 📫 Contact Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/example" target="_blank">
+  <a href="http://www.linkedin.com/in/mert-ecevit-a89aba223" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-05122A?style=flat&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/example" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-05122A?style=flat&logo=twitter" alt="Twitter"/>
+  
   </a>
 </p>
