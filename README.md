@@ -2,20 +2,20 @@
 <h3 align="center">Digital Design & FPGA & Embedded Systems Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=1EFF00&center=true&width=500&lines=Digital+Design+Specialist;FPGA+and+RISC-V+Developer;DSP+and+Embedded+Systems+Enthusiast" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=1EFF00&center=true&width=500&lines=Digital+Design+Specialist;FPGA+and+Digital+Design+Engineer;DSP+and+Embedded+Systems+Enthusiast" alt="Typing SVG">
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l4FGzBKOvZTTKAApq/giphy.gif" width="600" height="300"/>
+  <img src="[https://media.giphy.com/media/l4FGzBKOvZTTKAApq/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzBlZXd2emw0MmFhYWs0NGpiZDB0Z2RndDl3ZXl3MDFyN2RlMXA4aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/USORjkHBNBxD6rlO0I/giphy.gif)" width="600" height="300"/>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🔬 Passionate about: **Digital System Design, Signal Processing, and Hardware Architecture**
-- 🎯 Interests: **FPGA design (Verilog/VHDL), RISC-V architecture, and real-time DSP implementations**
-- 📚 Exploring: **Digital Filter Design, SoC development, and custom CPU architectures**
+- 🔬 Passionate about: **Digital System Design, Signal Processing, and FPGAs**
+- 🎯 Interests: **HDL Design(Verilog/VHDL), RISC-V architecture, and real-time DSP implementations**
+- 📚 Exploring: **Digital Filter Design, RISC-V Architectures, and Image & Video Processing**
 - 📫 How to reach me: **[ecevitm20@itu.edu.tr]**
 
 ---
