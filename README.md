@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Mert Ecevit</h1>
-<h3 align="center">Digital Design & Embedded Systems Enthusiast</h3>
+<h3 align="center">Digital Design & FPGA & Embedded Systems Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=1EFF00&center=true&width=500&lines=Digital+Design+Specialist;FPGA+and+RISC-V+Developer;DSP+and+Embedded+Systems+Enthusiast" alt="Typing SVG">
@@ -16,7 +16,7 @@
 - 🔬 Passionate about: **Digital System Design, Signal Processing, and Hardware Architecture**
 - 🎯 Interests: **FPGA design (Verilog/VHDL), RISC-V architecture, and real-time DSP implementations**
 - 📚 Exploring: **Digital Filter Design, SoC development, and custom CPU architectures**
-- 📫 How to reach me: **[mert.ecevit@email.com]**
+- 📫 How to reach me: **[ecevitm20@itu.edu.tr]**
 
 ---
 
