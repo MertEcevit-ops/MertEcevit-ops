@@ -50,14 +50,13 @@
 
 ---
 
-
 ## 🚀 Featured Projects
 
-- **IMU-Based Orientation Estimation** – Gyroscope ve accelerometer verilerini okuyup sensör füzyonu (complementary / Madgwick filtre) ile roll, pitch ve yaw açılarını gerçek zamanlı hesaplayan gömülü sistem projesi. 
+- **IMU-Based Orientation Estimation** – An embedded system that reads gyroscope and accelerometer data and fuses it (complementary / Madgwick filter) to compute roll, pitch, and yaw in real time.
   `C` · `STM32` · `I2C/SPI` · `FreeRTOS` · `UART`
-  <!-- TODO: gerçek MCU, IMU modeli (MPU6050, BNO055...) ve repo linkini yaz -->
+  <!-- TODO: add the actual MCU, IMU model (MPU6050, BNO055...) and repo link -->
 
-- **Project 2** – Soon
+- **Project 2** – coming soon
 ---
 
 ## 📊 GitHub Stats
